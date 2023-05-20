@@ -35,6 +35,7 @@ void reverse(int *way, int idx_1, int idx_2) {
         idx_1++;
         idx_2--;
     }
+
 }
 
 
